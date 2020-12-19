@@ -1,0 +1,79 @@
+Output(As per the code):
+
+begin
+
+here namenamenamenamename
+
+call with : 3 name
+
+here namenamename
+
+call with : 1 name
+
+here name
+
+call with : -1 name
+
+done name
+
+after all
+
+after all
+
+after all
+
+end
+
+=============================
+
+Explanation step wise:
+
+
+
+Recursion concept is used here which means  " A function that calls itself during its execution. "
+
+
+
+1)	Function used is: fcn(n ,s)
+
+which has two arguments n and s where "n " is the number and "s " is the string 
+
+2) As there string has value= "name" and x= 5
+
+3) fcn(x, string)  Its a function call. which takes  x =5 and string= "name"
+
+4)def fcn(n ,s):
+
+This is the function defination, here it means fcn(5, "name")
+
+5)since n=5 hence else condition is satisfied
+
+print("here", s*n) 
+
+It will print name 5 times as shown in output
+
+6) fcn(n-2, s)
+
+It will again call the function and this time it will be fcn(3, "name")
+
+7) Again it will enter else block to print name 3 times as shown in output.
+
+8)fcn(n-2, s)
+
+It will again call the function and this time it will be fcn(1, "name")
+
+9) Again it will enter else block to print name 1 time as shown in output
+
+10) fcn(n-2, s)
+
+It will again call the function and this time it will be fcn(-1, "name")
+
+11) It will enter if block to print print("done", s) where s is "name"
+
+12)  print("after all") 
+
+It will be printed as many times the else block is satisfied, but just before the end of function
+
+13) print("end")
+
+At the end of program this will be printed

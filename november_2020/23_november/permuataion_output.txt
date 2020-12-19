@@ -1,0 +1,9 @@
+Positive Test Output:
+Enter total number(n): 5
+Enter the number of item chosen(r): 2
+nPr is:  20.0
+
+Negative Test Output:
+Enter total number(n): 3
+Enter the number of item chosen(r): 4
+ValueError Exception!

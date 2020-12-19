@@ -1,0 +1,201 @@
+course,instructorID,department,lectureTime,lectureLength
+
+3155,1,Engineering,16:02,1
+
+2294,2,Services,18:10,3
+
+1108,3,Product Management,12:50,1
+
+1421,4,Research and Development,18:32,1
+
+2151,5,Training,13:22,2
+
+3265,6,Legal,12:00,1
+
+3947,7,Marketing,09:02,2
+
+3441,8,Engineering,10:41,3
+
+2052,9,Training,12:04,1
+
+3625,10,Human Resources,10:37,3
+
+1729,11,Training,09:32,3
+
+1033,12,Research and Development,14:39,3
+
+3437,13,Services,17:22,3
+
+1921,14,Product Management,09:57,1
+
+1236,15,Accounting,11:46,2
+
+1929,16,Training,15:22,2
+
+3850,17,Accounting,13:59,1
+
+3194,18,Accounting,18:03,1
+
+2703,19,Human Resources,11:34,2
+
+1516,20,Accounting,10:36,2
+
+2369,21,Marketing,09:10,2
+
+3971,22,Business Development,14:35,1
+
+3344,23,Product Management,11:53,2
+
+1058,24,Product Management,10:39,1
+
+3763,25,Support,16:53,3
+
+1125,26,Sales,17:09,1
+
+1144,27,Training,11:32,1
+
+1902,28,Support,09:22,3
+
+2293,29,Support,15:33,1
+
+2593,30,Human Resources,09:01,2
+
+3868,31,Product Management,12:57,2
+
+1983,32,Research and Development,16:11,2
+
+1617,33,Research and Development,11:44,2
+
+3639,34,Training,13:40,1
+
+2416,35,Services,13:14,2
+
+2536,36,Accounting,17:57,1
+
+3828,37,Legal,09:31,1
+
+1005,38,Support,10:42,3
+
+1148,39,Human Resources,13:35,2
+
+3960,40,Accounting,15:07,3
+
+1369,41,Business Development,18:08,2
+
+3505,42,Business Development,12:28,3
+
+3528,43,Engineering,15:25,2
+
+2845,44,Accounting,16:01,2
+
+1357,45,Marketing,11:28,3
+
+2082,46,Marketing,14:57,1
+
+1444,47,Sales,12:17,2
+
+2489,48,Human Resources,17:28,1
+
+2640,49,Engineering,16:48,2
+
+2619,50,Accounting,15:15,3
+
+2605,51,Business Development,13:22,1
+
+3632,52,Support,14:22,1
+
+1493,53,Business Development,09:20,1
+
+1064,54,Legal,14:03,2
+
+3205,55,Engineering,13:40,3
+
+1904,56,Marketing,15:18,1
+
+2305,57,Sales,15:07,3
+
+1292,58,Support,10:35,3
+
+3679,59,Business Development,14:28,3
+
+3689,60,Engineering,14:16,1
+
+3872,61,Training,10:24,2
+
+2858,62,Accounting,15:07,2
+
+2295,63,Support,14:10,3
+
+3640,64,Human Resources,13:40,2
+
+2426,65,Legal,16:19,2
+
+1244,66,Product Management,16:01,3
+
+2577,67,Engineering,11:58,2
+
+1923,68,Engineering,11:18,3
+
+2779,69,Marketing,18:40,2
+
+2549,70,Engineering,10:20,2
+
+1213,71,Accounting,18:57,3
+
+2906,72,Research and Development,18:54,3
+
+2233,73,Sales,16:25,2
+
+2527,74,Human Resources,11:40,2
+
+1936,75,Research and Development,12:25,3
+
+3210,76,Sales,13:53,3
+
+3332,77,Business Development,18:42,1
+
+2537,78,Services,12:03,2
+
+1746,79,Support,12:43,1
+
+2699,80,Training,09:59,3
+
+3537,81,Product Management,14:38,3
+
+1526,82,Accounting,16:54,2
+
+1529,83,Services,11:24,3
+
+1654,84,Legal,10:19,1
+
+1365,85,Human Resources,15:58,1
+
+2511,86,Services,16:32,1
+
+2745,87,Accounting,16:41,1
+
+2526,88,Business Development,09:57,1
+
+2907,89,Business Development,11:44,1
+
+3097,90,Research and Development,09:51,3
+
+2919,91,Accounting,15:39,2
+
+2954,92,Services,13:19,3
+
+1171,93,Services,15:17,3
+
+1810,94,Human Resources,09:23,2
+
+1298,95,Engineering,16:55,3
+
+3919,96,Services,16:15,1
+
+2359,97,Product Management,11:22,3
+
+1305,98,Support,09:02,3
+
+2544,99,Engineering,11:25,3
+
+2920,100,Business Development,16:30,1

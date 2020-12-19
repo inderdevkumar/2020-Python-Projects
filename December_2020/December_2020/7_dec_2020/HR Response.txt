@@ -1,0 +1,9 @@
+Candidate,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10
+Candidate1,A,B,A,C,C,D,E,E,A,D
+Candidate2,D,B,A,B,C,A,E,E,A,D
+Candidate3,E,D,D,A,C,B,E,E,A,D
+Candidate4,C,B,A,E,D,C,E,E,A,D
+Candidate5,A,B,D,C,C,D,E,E,A,D
+Candidate6,B,B,E,C,C,D,E,E,A,D
+Candidate7,B,B,A,C,C,D,E,E,A,D
+Candidate8,E,B,E,C,C,D,E,E,A,D

@@ -1,0 +1,58 @@
+item_id,category,description,price,avg custome rating
+AB01,cloth,Green colour,10,3
+AB02,chocolate,Green colour,10,3
+AB03,toys,Green colour,10,1
+AB04,health,Green colour,10,3
+AB05,food,Green colour,10,3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OUTPUT:
+
+Welcome to shopping at Amazing
+
+we sell items in the following categories: ['cloth', 'chocolate', 'toys', 'health', 'food']
+
+Please enter a category name or input 'checkout' to quit: cloth
+
+Enter 'yes' for applying Filter on customer rating: yes
+
+Please enter the minimum rating: 2
+
+Item ID Information: ['AB01']
+
+Please input Item ID or type any key to return: AB01
+
+Item ID AB01 Information: [['AB01', 'cloth', 'Green colour', 10, 3]]
+
+AB01 added to the cart
+
+
+
+Note: Unable to  paste my python code here, hence attaching them as screenshot.
