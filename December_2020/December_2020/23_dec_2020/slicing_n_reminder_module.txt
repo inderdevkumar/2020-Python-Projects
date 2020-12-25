@@ -1,0 +1,132 @@
+Output:
+
+
+
+Pyth Pytho honForEveryon
+
+
+
+Reason:
+
+
+
+>>> str1= 'PythonForEveryone'
+
+>>> str1[0:4]											#It will slice str1 from 0th position till 4th position(Excluding 4th position)
+
+'Pyth'
+
+
+
+>>> str1= 'PythonForEveryone'
+
+>>> str1[:5]												#It will slice str1 from 0th position till 5th position(Excluding 5th position)
+
+'Pytho'
+
+
+
+>>> str1= 'PythonForEveryone'
+
+>>> str1[3:-1]											#It will slice str1 from 3rd position till last position(Excluding last position)
+
+'honForEveryon'
+
+
+
+print (str1[0:4], str1[:5], str1[3:-1])     # It will display all three in a line with space in between
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output:
+
+
+
+>>> 16%3
+
+1
+
+
+
+Reason: 16 will be divided by 3, The output will be the reminder
+
+
+
+Below are few more examples with outputs:
+
+>>> 15%3
+
+0
+
+>>> 2%3
+
+2
+
+
+
+Note: Please comment if you need more help
+
+
+Here are few tips related to % operator:
+
+
+
+A ZeroDivisionError exception is raised if the right operand is zero.
+>>> 16%0
+
+Traceback (most recent call last):
+
+ File "<pyshell#1>", line 1, in <module>
+
+  16%0
+
+ZeroDivisionError: integer division or modulo by zero
+
+
+
+The result always gives the same sign as its second operand or zero.
+
+
+>>> 16.5%2
+
+0.5
+
+>>> -16.5%2
+
+1.5
+
+>>> 16.5 % -2
+
+-1.5
+
+>>> -16%2
+
+0
+
+>>> 16%-2
+
+0
+
+
+
+The operands may be floating point numbers.
+>>> 16.5%2
+
+0.5
+
+>>> 16%2.5
+
+1.0
